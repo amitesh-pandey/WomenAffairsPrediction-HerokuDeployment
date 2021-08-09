@@ -11,5 +11,14 @@ Here are screenshots of results for better understanding of a model
 
 ![3](https://user-images.githubusercontent.com/63364350/128632678-27375809-d45b-4739-9b7a-a1dc43c8c130.PNG)
 
+************************************************
+__Technologies Used are : __ 
+
+1. Python - Jupyter Notebook, Pycharm 
+2. Sklearn, Pandas, Numpy
+3. Flask
+4. Html
+5. Css
+6. Heroku 
 
 Enjoy Learning !!
