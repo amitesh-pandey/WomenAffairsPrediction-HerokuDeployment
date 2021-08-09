@@ -18,7 +18,6 @@ __Technologies used are :__
 2. Sklearn, Pandas, Numpy
 3. Flask
 4. Html
-5. Css
-6. Heroku 
+5. Heroku 
 
 Enjoy Learning !!
